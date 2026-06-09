@@ -335,18 +335,8 @@ This project can be applied in:
 
 ## 👨‍💻 Author
 
-### Mehul B Chaudhary
+### Maharshi k patel
 
 **M.Sc. Agriculture Analytics**
 
-GIS | Spatial Analytics | Web GIS | Python | PostgreSQL | PostGIS
 
-🔗 LinkedIn: [www.linkedin.com/in/mehulkumar-chaudhary-403516230](http://www.linkedin.com/in/mehulkumar-chaudhary-403516230)
-
-🔗 GitHub: https://github.com/202519003
-
----
-
-## ⭐ Support
-
-If you found this project useful, consider giving the repository a ⭐ on GitHub.
